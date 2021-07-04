@@ -1,0 +1,38 @@
+C:\Users\שירה יודייקין\Desktop\מיני פרוייקט\BE\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\שירה יודייקין\Desktop\מיני פרוייקט\BE\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\brach\Downloads\project\New folder\BE\bin\Debug\BE.dll
+C:\Users\brach\Downloads\project\New folder\BE\bin\Debug\BE.pdb
+C:\Users\brach\Downloads\project\New folder\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\brach\Downloads\project\New folder\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\brach\Downloads\project\New folder\BE\obj\Debug\BE.dll
+C:\Users\brach\Downloads\project\New folder\BE\obj\Debug\BE.pdb
+C:\Users\שירה יודייקין\Desktop\New folder\BE\bin\Debug\BE.dll
+C:\Users\שירה יודייקין\Desktop\New folder\BE\bin\Debug\BE.pdb
+C:\Users\שירה יודייקין\Desktop\New folder\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\שירה יודייקין\Desktop\New folder\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\שירה יודייקין\Desktop\New folder\BE\obj\Debug\BE.dll
+C:\Users\שירה יודייקין\Desktop\New folder\BE\obj\Debug\BE.pdb
+C:\Users\שירה יודייקין\Desktop\new to monday\new to monday\New folder\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\שירה יודייקין\Desktop\new to monday\new to monday\New folder\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\שירה יודייקין\Desktop\new to monday\new to monday\New folder\BE\obj\Debug\BE.dll
+C:\Users\שירה יודייקין\Desktop\new to monday\new to monday\New folder\BE\obj\Debug\BE.pdb
+C:\Users\שירה יודייקין\Desktop\new to monday\new to monday\New folder\BE\bin\Debug\BE.dll
+C:\Users\שירה יודייקין\Desktop\new to monday\new to monday\New folder\BE\bin\Debug\BE.pdb
+C:\Users\brach\Desktop\morning thursday\new to monday\new to monday\New folder\BE\bin\Debug\BE.dll
+C:\Users\brach\Desktop\morning thursday\new to monday\new to monday\New folder\BE\bin\Debug\BE.pdb
+C:\Users\brach\Desktop\morning thursday\new to monday\new to monday\New folder\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\brach\Desktop\morning thursday\new to monday\new to monday\New folder\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\brach\Desktop\morning thursday\new to monday\new to monday\New folder\BE\obj\Debug\BE.dll
+C:\Users\brach\Desktop\morning thursday\new to monday\new to monday\New folder\BE\obj\Debug\BE.pdb
+C:\Users\שירה יודייקין\Desktop\morning thursday\new to monday\new to monday\New folder\BE\bin\Debug\BE.dll
+C:\Users\שירה יודייקין\Desktop\morning thursday\new to monday\new to monday\New folder\BE\bin\Debug\BE.pdb
+C:\Users\שירה יודייקין\Desktop\morning thursday\new to monday\new to monday\New folder\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\שירה יודייקין\Desktop\morning thursday\new to monday\new to monday\New folder\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\שירה יודייקין\Desktop\morning thursday\new to monday\new to monday\New folder\BE\obj\Debug\BE.dll
+C:\Users\שירה יודייקין\Desktop\morning thursday\new to monday\new to monday\New folder\BE\obj\Debug\BE.pdb
+C:\Users\שירה יודייקין\Desktop\final project\BE\bin\Debug\BE.dll
+C:\Users\שירה יודייקין\Desktop\final project\BE\bin\Debug\BE.pdb
+C:\Users\שירה יודייקין\Desktop\final project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\שירה יודייקין\Desktop\final project\BE\obj\Debug\BE.dll
+C:\Users\שירה יודייקין\Desktop\final project\BE\obj\Debug\BE.pdb
+C:\Users\שירה יודייקין\Desktop\final project\BE\obj\Debug\BE.csproj.AssemblyReference.cache
